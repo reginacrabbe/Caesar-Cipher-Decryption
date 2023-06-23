@@ -20,9 +20,12 @@ The Caesar Cipher project implements a classic encryption technique, allowing us
 1. Open the terminal or command prompt.
 2. Navigate to the project directory.
 3. Run the `caesar_cipher.py` script.
-4. Enter the plaintext or ciphertext, depending on whether you want to encrypt or decrypt.
-5. Enter the key value for encryption or decryption.
-6. The decrypted message will be displayed in the terminal.
+
+## Author
+Regina Naa Dedei Crabbe
+5. Enter the plaintext or ciphertext, depending on whether you want to encrypt or decrypt.
+6. Enter the key value for encryption or decryption.
+7. The decrypted message will be displayed in the terminal.
 
 ## Technologies Used
 
